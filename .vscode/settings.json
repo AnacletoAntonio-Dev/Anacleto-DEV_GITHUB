@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
+        "Configurar",
+        "Importar",
         "Verifica"
     ],
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.unicodeHighlight.ambiguousCharacters": false
 }
