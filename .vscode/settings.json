@@ -6,6 +6,5 @@
     ],
     "java.debug.settings.onBuildFailureProceed": true,
     "editor.unicodeHighlight.ambiguousCharacters": false,
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": []
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }

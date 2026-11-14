@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 from pandas.plotting import register_matplotlib_converters
+
 register_matplotlib_converters()
 
 # 1. Importar os dados e definir a coluna 'date' como índice, convertendo para datetime

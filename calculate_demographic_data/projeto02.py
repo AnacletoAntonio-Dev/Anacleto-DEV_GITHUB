@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def calculate_demographic_data(print_data=True):
     # Ler os dados do arquivo do censo
     df = pd.read_csv("adult.data.csv")

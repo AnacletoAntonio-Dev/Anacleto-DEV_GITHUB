@@ -1,7 +1,7 @@
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 from scipy.stats import linregress
-import numpy as np
+
 
 def draw_plot():
     # 1. Importar os dados do arquivo csv

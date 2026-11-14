@@ -1,4 +1,5 @@
-import numpy as np # type: ignore
+import numpy as np  # type: ignore
+
 
 def calculate(list_input):
     # Verifica se a lista tem exatamente 9 elementos

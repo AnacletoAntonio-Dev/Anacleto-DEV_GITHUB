@@ -1,10 +1,10 @@
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
-
 # 1. Importar os dados
 import os
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
 
 # Descobre a pasta onde o script projeto03.py está a rodar
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
